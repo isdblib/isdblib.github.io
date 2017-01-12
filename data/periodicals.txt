@@ -1,0 +1,17 @@
+{
+  "data": [
+    [
+      "<a href='http://www.africaintelligence.com/'>Africa Energy Intelligence</a>",
+      "<span class='glyphicon glyphicon-download-alt'></span> <a href='http://cdnetsrv/library/OnlineSources/PDF_Periodicals/Africa%20Energy%20Intelligence/AEI%20No%20778%20October%204%202016.pdf'>Oct. 4, 16 </a>",
+      "<span class='glyphicon glyphicon-download-alt'></span><a href='http://cdnetsrv/library/OnlineSources/PDF_Periodicals/Africa%20Energy%20Intelligence/AEI%20No%20777%20September%2020%202016.pdf'> Sept. 20, 16</a>",
+      "<span class='glyphicon glyphicon-download-alt'></span> <a href='http://cdnetsrv/library/OnlineSources/PDF_Periodicals/Africa%20Energy%20Intelligence/AEI%20No%20776%20September%206%202016.pdf'> Sept. 6, 16</a>"
+    ],
+    [
+      "<a href='http://www.africaintelligence.com/'>Africa Energy Intelligence</a>",
+      "<span class='glyphicon glyphicon-download-alt'></span> <a href='http://cdnetsrv/library/OnlineSources/PDF_Periodicals/Africa%20Energy%20Intelligence/AEI%20No%20778%20October%204%202016.pdf'>Oct. 4, 16 </a>",
+      "<span class='glyphicon glyphicon-download-alt'></span><a href='http://cdnetsrv/library/OnlineSources/PDF_Periodicals/Africa%20Energy%20Intelligence/AEI%20No%20777%20September%2020%202016.pdf'> Sept. 20, 16</a>",
+      "<span class='glyphicon glyphicon-download-alt'></span> <a href='http://cdnetsrv/library/OnlineSources/PDF_Periodicals/Africa%20Energy%20Intelligence/AEI%20No%20776%20September%206%202016.pdf'> Sept. 6, 16</a>"
+    ]
+    
+  ]
+}

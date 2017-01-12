@@ -1,0 +1,16 @@
+{
+  "data": [
+    [
+      "<a href='http://web.ebscohost.com/ehost/detail?sid=66d2ce32-46d6-41b8-8f4a-6b8288da5652@sessionmgr111&vid=5&hid=122&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ==#db=plh&jid=ACC'> Accountancy</a>",
+      "no need",
+      "no need",
+      "Journal"
+    ],
+    [
+      "<a href='http://www.lesafriques.com/'> Afriques, Les </a>",
+      "isdb",
+      "afri12",
+      "Journal"
+    ]
+  ]
+}

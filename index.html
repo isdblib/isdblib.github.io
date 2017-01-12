@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <script src="js/jquery.js"></script>
+    <script> 
+    $(function(){
+      $("#header").load("header.html"); 
+      $("#nav").load("nav.html"); 
+      $("#footer").load("footer.html");
+    });
+    </script> 
+    <div id="header"></div>
+
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <div id="nav"></div>    
+
+
+    <!-- Header Carousel -->
+    <header id="myCarousel" class="carousel slide">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <div class="fill" style="background-image:url('images/idb.jpg');"></div>
+                <div class="carousel-caption">
+                    <h1 style="color: black; font-size: 50px">Welcome to IDB Group Library</h1>
+                </div>
+            </div>
+            <div class="item">
+                <div class="fill" style="background-image:url('images/books6.jpg');"></div>
+                <div class="carousel-caption">
+                    <h1>Enjoy Research</h1>
+                </div>
+            </div>
+            <div class="item">
+                <div class="fill" style="background-image:url('images/books7.jpg');"></div>
+                <div class="carousel-caption">
+                    <h2>The best place to be in</h2>
+                </div>
+            </div>
+        </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+            <span class="icon-prev"></span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+            <span class="icon-next"></span>
+        </a>
+    </header>
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <!-- Marketing Icons Section -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1>Some of our new acquisitions</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+            	<img class="img-responsive" src="images/islamicbond.jpg" alt="">
+            </div>
+            <div class="col-md-8 ">
+                
+                    
+                    
+                        <h3>Islamic Bonds<br>
+                            <small>Author: Nathif J. Adam | Shelfmark : 332.608 NAT </small>
+                        </h3>
+                        <p>Sukuk are the crest of a new wave of innovation in Islamic finance. The full potential of sukuk range of securities is far from realised. Find out how the market has and continues to develop to open new investor and issuer universes</p>
+                       
+            </div>
+                
+            
+        </div>
+        <p><hr> </p>
+        <div class="row">
+            <div class="col-md-4">
+            	<img class="img-responsive" src="images/Oxford.jpg" alt="">
+            </div>
+            <div class="col-md-8 ">
+                <h3>The Oxford handbook of economic inequality  <br>
+                            <small>Author: Wiemer Salverda | Shelfmark : 339.2 SAL</small>
+                        </h3>
+                        <p>The Oxford Handbook of Economic Inequality presents a new and challenging analysis of economic inequality, focusing primarily on economic inequality in highly developed countries. Bringing together the world's top scholars this comprehensive and authoritative volume contains an impressive array of original research on topics ranging from gender to happiness, from poverty to top incomes, and from employers to the welfare state. The authors give their view on the state-of-the-art of scientific research in their fields of expertise and add their own stimulating visions on future research. Ideal as an overview of the latest, cutting-edge research on economic inequality, this is a must have reference for students and researchers alike. The volume also links to a website full of further reading and methodological annexes to assist with further research in the field.</p>
+                       
+            </div>
+                
+            
+        </div>
+        <p><hr> </p>
+        <div class="row">
+            <div class="col-md-4">
+            	<img class="img-responsive" src="images/newbook.jpg" alt="">
+            </div>
+            <div class="col-md-8 ">
+                <h3> Economic liberalisation, social capital and Islamic welfare provision<br>
+                            <small>Author: Jane Harrigan | Shelfmark : 331.917 HAR </small>
+                        </h3>
+                        <p>Economic liberalisation programmes have been introduced to several countries in the Middle East and North Africa in recent years, with the World Bank and IMF promoting this reform. The inevitable retrenchment of the state under liberalisation has arguably opened up a space for Islamic-based activities related to welfare provision. This book looks at two aspects of Islamic activity in the Middle East and North Africa: the development of social capital and the provision of welfare services, especially in the area of health and education. With in-depth country studies of Jordan, Egypt, Morocco and Tunisia, this book explores the differing experiences in the MENA countries, which range from the Tunisian experience, in which state welfare provision actually increased under liberalisation, to the experience of Jordan and Egypt, where increased poverty and a decline in the quality of state welfare provision under liberalisation has led to a large increase in Islamic welfare activities to the extent that the Muslim Brotherhood has gained considerable political capital, and now represents the main opposition to incumbent regimes in these two countries. This book provides a detailed examination of the social impact of economic liberalisation in the Middle East and North Africa, using the social capital concept to analyse the Islamic response to welfare changes. With a comprehensive and detailed analysis of four MENA countries and their varying experiences of economic liberalisation, this book is essential reading for all interested in welfare, liberalisation and political economy in the Middle East and North Africa.</p>
+                       
+            </div>
+                
+            
+        </div>
+        
+        
+        
+
+        <hr>
+
+        <!-- Footer -->
+        <div id="footer"></div>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Script to Activate the Carousel -->
+    <script>
+    $('.carousel').carousel({
+        interval: 5000 //changes the speed
+    })
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,16 @@
+{
+  "data": [
+    [
+      "<a href='http://www.doabooks.org/'>Directory of Open Access Books (DOAB)</a>",
+      "no need",
+      "no need",
+      "The DOAB is a searchable database of scientific monographs which have been made accessible in Open Access by publishers and scientific institutes. DOAB links to the fulltext of the publications on the website of the publisher or the repository of scientific institutes. Particularly for the Humanities, Law and Social Sciences, the beta version of this database contains a substantial number of books. DOAB has started in February 2012 on the initiative of OAPEN, Open Access Publishing in European Networks. By now, DOAB gives access to 1259 E-books."
+    ],
+    [
+      "<a href='http://www.doabooks.org/'>Directory of Open Access Books (DOAB)</a>",
+      "no need",
+      "no need",
+      "The DOAB is a searchable database of scientific monographs which have been made accessible in Open Access by publishers and scientific institutes. DOAB links to the fulltext of the publications on the website of the publisher or the repository of scientific institutes. Particularly for the Humanities, Law and Social Sciences, the beta version of this database contains a substantial number of books. DOAB has started in February 2012 on the initiative of OAPEN, Open Access Publishing in European Networks. By now, DOAB gives access to 1259 E-books."
+    ]
+  ]
+}
